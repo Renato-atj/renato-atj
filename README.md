@@ -1,4 +1,4 @@
-### Olá! Sou o Renato.atj 👋
+### Olá! Sou o Renato 👋
 
 - 🔭 Hoje trabalho como freelance 3D
 - 🌱 Estudo Blender e Unreal
