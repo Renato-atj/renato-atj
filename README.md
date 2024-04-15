@@ -1,6 +1,6 @@
 ### Olá! Sou o Renato 👋
 
-- 🔭 Hoje trabalho como freelance 3D
+- 🔭 Atuo como freelance 3D
 - 🌱 Estudo Blender e Unreal
 <div style="display: inline_block"><br>
   <img align="center" alt="Re-Blender" height="30" width="40" 
