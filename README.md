@@ -1,7 +1,7 @@
 ### Olá! Sou o Renato 👋
 
 - 🔭 Atuo como freelance 3D
-- 🌱 Estudo Blender e Unreal
+- 🌱 Estudo Blender, Unreal.
 <div style="display: inline_block"><br>
   <img align="center" alt="Re-Blender" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
